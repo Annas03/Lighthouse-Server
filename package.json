@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@lhci/cli": "^0.13.0",
+    "@lhci/server": "^0.13.0",
+    "sqlite3": "^5.1.7"
+  }
+}
